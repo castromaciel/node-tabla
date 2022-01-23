@@ -1,0 +1,20 @@
+{
+  "name": "s4_bases_de_node",
+  "version": "0.0.2",
+  "description": "Es una tabla de multiplicar con archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "Maciel Castro",
+  "license": "ISC",
+  "dependencies": {
+    "colores": "^1.0.1",
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
